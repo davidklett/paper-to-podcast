@@ -1,0 +1,11 @@
+LOCAL.md
+.DS_Store
+
+# Papers and generated audio stay out of git
+*.pdf
+*.mp3
+*.m4a
+
+# NotebookLM credentials
+storage_state.json
+.notebooklm/

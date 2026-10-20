@@ -1,0 +1,12 @@
+# Background reading for "Attention Is All You Need" (Vaswani et al., 2017).
+# Ordered from prerequisites to the paper's own companions. arXiv /abs/ links give NotebookLM
+# only the abstract.
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://jalammar.github.io/illustrated-word2vec/
+https://arxiv.org/abs/1409.3215
+https://arxiv.org/abs/1409.0473
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+https://lilianweng.github.io/posts/2018-06-24-attention/
+https://www.youtube.com/watch?v=eMlx5fFNoYc
+https://jalammar.github.io/illustrated-transformer/
+https://nlp.seas.harvard.edu/annotated-transformer/
