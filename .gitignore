@@ -9,3 +9,5 @@ LOCAL.md
 # NotebookLM credentials
 storage_state.json
 .notebooklm/
+
+__pycache__/
