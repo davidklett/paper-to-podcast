@@ -1,0 +1,9 @@
+# Background reading for "Language Models Need Sleep" (Behrouz et al., 2026, arXiv:2606.03979).
+# Ordered from prerequisites to the paper's direct predecessors. /pdf links give NotebookLM the full text.
+https://jalammar.github.io/illustrated-transformer/
+https://arxiv.org/pdf/1503.02531
+https://arxiv.org/pdf/1612.00796
+https://arxiv.org/pdf/2306.13649
+https://arxiv.org/pdf/2402.03300
+https://arxiv.org/pdf/2407.04620
+https://arxiv.org/pdf/2501.00663
